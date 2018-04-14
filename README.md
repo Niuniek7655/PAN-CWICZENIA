@@ -2,3 +2,5 @@
 PAN CWICZENIA
 
 Test zmiany
+
+Nowe zmiany
