@@ -6,3 +6,5 @@ Test zmiany
 Nowe zmiany
 
 Kopia A
+
+nowy branch
